@@ -68,5 +68,11 @@ from sklearn.ensemble import GradientBoostingClassifier
 
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support, classification_report
 
+#load the data and see what the data looks like
+
+df = pd.read_csv(r"C:\Users\AYOMIDE\Desktop\M505 project\Credit_card.csv")
+
+df.head()
+
 from sklearn.pipeline import Pipeline
 
