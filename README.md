@@ -1,10 +1,20 @@
 # Machine-Learning
-#This is my first machine learning project that i would commit
-#TOPIC: CREDIT CARD ELIGIBILITY PREDICTION
-URL for the dataset: https://www.kaggle.com/datasets/rohitudageri/credit-card-details
-#In commercial banking sector, the influx of credit card applications presents a significant operational challenge. The manual assessment of these applications is #not only laborious and prone to errors but also consumes valuable time.
 
-#Factors such as Type of income, income levels, and multiple inquiries on credit reports often lead to the rejection of many applications. To streamline this #process and enhance efficiency, the integration of machine learning techniques has become increasingly relevant in the banking sector. By automating the credit #card approval process, banks can expedite decision-making while ensuring accuracy and consistency.
+#This is my first machine learning project that i would commit
+
+#TOPIC: CREDIT CARD ELIGIBILITY PREDICTION
+
+URL for the dataset: https://www.kaggle.com/datasets/rohitudageri/credit-card-details
+
+#In commercial banking sector, the influx of credit card applications presents a significant operational challenge. The manual assessment of these applications is
+
+#not only laborious and prone to errors but also consumes valuable time.
+
+#Factors such as Type of income, income levels, and multiple inquiries on credit reports often lead to the rejection of many applications. To streamline this 
+
+#process and enhance efficiency, the integration of machine learning techniques has become increasingly relevant in the banking sector. By automating the credit
+
+#card approval process, banks can expedite decision-making while ensuring accuracy and consistency.
 
 #This project aims to develop an automatic credit card approval system using machine learning algorithms.
 
