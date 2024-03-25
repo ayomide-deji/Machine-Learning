@@ -25,21 +25,38 @@ URL for the dataset: https://www.kaggle.com/datasets/rohitudageri/credit-card-de
 #Creating a machine learning pipeline to predict credit card approval status based on individual applications.
 
 #Importing the required libraries for this project
+
 import pandas as pd
+
 import seaborn as sns
+
 import matplotlib.pyplot as plt
+
 %matplotlib inline
+
 import seaborn as sns
+
 from sklearn.preprocessing import StandardScaler
+
 from sklearn.decomposition import PCA
+
 from sklearn.preprocessing import LabelEncoder
+
 from sklearn.preprocessing import OrdinalEncoder
+
 from sklearn.tree import DecisionTreeClassifier
+
 from sklearn.ensemble import RandomForestClassifier
+
 from sklearn.compose import ColumnTransformer
+
 from sklearn.model_selection import GridSearchCV
+
 from sklearn.tree import DecisionTreeClassifier
+
 from sklearn.ensemble import GradientBoostingClassifier
+
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support, classification_report
+
 from sklearn.pipeline import Pipeline
 
